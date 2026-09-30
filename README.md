@@ -93,6 +93,7 @@
 - [Netlas](https://netlas.io/) - Attack surface discovery and intelligence platform.
 - [GreyNoise](https://www.greynoise.io/) - Internet scanner noise filtering and intelligence.
 - [CriminalIP](https://www.criminalip.io/) - Cyber threat intelligence search engine.
+- [cl0q](https://cl0q.com) - Open search engine for domain research — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
 - [FullHunt](https://fullhunt.io/) - Attack surface management and discovery.
 - [Leakix](https://leakix.net/) - Leak and exposure detection engine.
 - [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs.
